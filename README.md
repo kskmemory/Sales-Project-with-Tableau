@@ -1,5 +1,4 @@
-# Sales-Project-Sales-Customers-Dashboard-with-Tableau
-Sales Project (Sales &amp; Customers Dashboard) with Tableau
+# Sales Project(Sales&Customers Dashboard) with-Tableau
 
 # Sales Dashboard
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
